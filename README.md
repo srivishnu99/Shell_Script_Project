@@ -1,6 +1,6 @@
-# Shell_Script_Project
+Shell_Script_Project
 
-#This script will prompt the user to enter the AWS region and the service for which the resources need to be listed.
+This script will prompt the user to enter the AWS region and the service for which the resources need to be listed.
 
 # Below are the services that are supported by this script:
 # 1. EC2
